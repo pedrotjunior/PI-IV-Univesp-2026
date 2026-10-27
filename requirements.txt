@@ -1,4 +1,4 @@
-Django==6.1.1
+﻿Django==6.1.1
 gunicorn
 whitenoise
 pandas==3.0.6
@@ -9,3 +9,4 @@ xgboost==3.4.1
 joblib==1.6.0
 asgiref==3.12.1
 sqlparse==0.6.0
+requests
